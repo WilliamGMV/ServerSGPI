@@ -7,13 +7,13 @@
       "_polygonsSerialized" : "Stuff",
       "Tipo" : "Ola",
       "Tipologia" : "Tudo",
-       "Natureza" :
+       "Natureza" : "Trinta",
        "Freguesia" : "Tudo",
         "Servico" : "Tudo",
         "Eixo" : "Tudo",
         "Objetivo"  : "Tudo",
         "ValueIva" : "3",
-        "Value" : "0,
+        "Value" : "0
     },
     {
       "Code" : "trinta",
@@ -28,7 +28,7 @@
         "Eixo" : "Tudo",
         "Objetivo"  : "Tudo",
         "ValueIva" : "3",
-        "Value" : "0,
+        "Value" : "0
     },
     {
       "Code" : "trinta3",
@@ -43,7 +43,7 @@
         "Eixo" : "Tudo",
         "Objetivo"  : "Tudo",
         "ValueIva" : "3",
-        "Value" : "0,
+        "Value" : "0
     }
   ],
 }
