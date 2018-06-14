@@ -12,8 +12,8 @@
         "Servico" : "Tudo",
         "Eixo" : "Tudo",
         "Objetivo"  : "Tudo",
-        "ValueIva" : "3",
-        "Value" : "0"
+        "ValueIva" : 3,
+        "Value" : 0
     },
     {
       "Code" : "trinta33",
@@ -27,8 +27,8 @@
         "Servico" : "Tudo",
         "Eixo" : "Tudo",
         "Objetivo"  : "Tudo",
-        "ValueIva" : "3",
-        "Value" : "0"
+        "ValueIva" : 3,
+        "Value" : 0
     },
     {
       "Code" : "trinta3",
@@ -42,8 +42,8 @@
         "Servico" : "Tudo",
         "Eixo" : "Tudo",
         "Objetivo"  : "Tudo",
-        "ValueIva" : "3",
-        "Value" : "0"
+        "ValueIva" : 3,
+        "Value" : 0
     }
   ]
 }
