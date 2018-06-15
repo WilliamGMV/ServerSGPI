@@ -1,6 +1,7 @@
-[
+{
+  "intervencoes": [
   {
-    "Code":null,
+    "Code": "REST",
     "Name": "nome",
     "Status": "nome",
     "Tipo":"nome",
@@ -20,3 +21,4 @@
     "BacklinksCount":0
   }
 ]
+}
